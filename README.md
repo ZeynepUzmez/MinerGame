@@ -7,6 +7,6 @@
 <img src="Readmeİcin/2.PNG" alt=""><br>
 <p>How To Play Paneli</p><br>
 <img src="Readmeİcin/3.PNG" alt=""><br>
-<p>Oyun level içi görüntüleri</p><br>
+<p>Oyun içi level görüntüleri</p><br>
  <img src="Readmeİcin/4.PNG" alt=""><br>
 <img src="Readmeİcin/5.PNG" alt=""><br>
